@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+//Creating master branch
 struct bank
 {
         char name[10],gender,addr[10],usr[10],psswrd[10];
